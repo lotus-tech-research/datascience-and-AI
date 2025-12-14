@@ -28,11 +28,7 @@ Random Forest Regressor
 
 Goal: Predict house prices based on features such as bedrooms, bathrooms, square footage, etc.
 
-▶️ Run the Notebook in Google Colab
-Paste your notebook link here:
 
-markdown
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](PASTE_NOTEBOOK_LINK_HERE)
 📂 Project Structure
 Code
 datascience-and-AI/
